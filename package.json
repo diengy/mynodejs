@@ -1,0 +1,20 @@
+{
+  "name": "mystaticserver",
+  "version": "0.0.1",
+  "description": "new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "author": "diengy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1",
+    "fs": "^0.0.2"
+  },
+  "devDependencies": {}
+}
